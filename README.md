@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Yatharth</h1>
-<a href="https://yatharthmogra.github.io/me" target="_blank"> <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="Yatharth Mogra" /> </a>
+<!-- <a href="https://yatharthmogra.github.io/me" target="_blank"> <img src="https://img.shields.io/website-down-green-red/http/shields.io.svg" alt="Yatharth Mogra" /> </a> -->
 
 <!--
 **yatharthMogra/yatharthMogra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
