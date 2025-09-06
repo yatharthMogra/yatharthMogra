@@ -8,6 +8,7 @@
 - 💬 Ask me about Python, C++, Web Development, Android, Deep Learning and RL.
 - 📫 How to reach me: yatharthmogra@gmail.com
 - 😄 Pronouns: He/His/Him
+- 👯 I’m looking to collaborate on interesting Machine Learning and Data Science related projects.
 - ⚡ Fun fact: My debugging skills are like helium—they always rise to the occasion.
 
 ### Connect with me:
