@@ -1,45 +1,74 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Yatharth</h1>
-<!-- <a href="https://yatharthmogra.github.io/me" target="_blank"> <img src="https://img.shields.io/website-down-green-red/http/shields.io.svg" alt="Yatharth Mogra" /> </a> -->
+<h1 align="center">Hi, I'm Yatharth</h1>
 
-<!--
-**yatharthMogra/yatharthMogra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+Building distributed systems, data platforms, and backend infrastructure.
+</p>
 
-- 💬 Ask me about Python, C++, Web Development, Android, Deep Learning and RL.
-- 📫 How to reach me: yatharthmogra@gmail.com
-- 😄 Pronouns: He/His/Him
-- 👯 I’m looking to collaborate on interesting Machine Learning and Data Science related projects.
-- ⚡ Fun fact: My debugging skills are like helium—they always rise to the occasion.
+<p align="center">
+<a href="https://github.com/yatharthMogra">
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/yatharth-mogra/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
-### Connect with me:
+---
 
-[<img align="left" alt="Yatharth Mogra" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />][website]
-[<img align="left" alt="Yatharth Mogra | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+### 🚀 About Me
 
-<br>
+- MS CS @ NYU  
+- Former Software Developer @ Walmart  
+- Experience building **high-availability distributed systems**, **Kafka-based pipelines**, and **cloud-native infrastructure**  
+- Interested in **SRE, backend systems, and large-scale data platforms**
 
-### Languages and Tools:
+---
 
-<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> </a>
-<a href="https://cplusplus.com" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /> </a>
-<a href="https://react.dev" target="_blank"> <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="bootstrap"/> </a>
-<a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" /> </a>
-<a href="https://pytorch.org" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="html5" /> </a>
-<a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" /> </a>
-<a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/> </a>
-<a href="https://www.npmjs.com" target="_blank"> <img src="https://img.shields.io/badge/Npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" alt="flask" /> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/Postgre_SQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="mysql" /> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="git" /> </a>
-<a href="https://ubuntu.com" target="_blank"> <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /> </a>
-<a href="https://kafka.apache.org" target="_blank"> <img src="https://img.shields.io/badge/Apache_Kafka-231f20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="ApacheKafka" /> </a>
-<a href="https://redis.io" target="_blank"> <img src="https://img.shields.io/badge/Redis-ff4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> </a>
+### 🛠 What I Work On
 
-<br>
-<!--
-Links
--->
+- Designing **event-driven systems** using Kafka and streaming pipelines  
+- Building **backend services in Go, Java, and Python**  
+- Developing **fault-tolerant systems** with observability (metrics, logging, tracing)  
+- Working with **AWS, Docker, CI/CD, and scalable infra patterns**
 
-[website]: https://yathartmogra.github.io/me/
-[linkedin]: https://www.linkedin.com/in/yatharth-mogra/
+---
+
+### 🔧 Featured Projects
+
+#### 🚗 Fleet OTA Orchestrator (Go, PostgreSQL, REST)
+- Backend system simulating **over-the-air updates for vehicle fleets**
+- Supports **staged rollouts, failure handling, and rollback strategies**
+
+#### ⚙️ DataFoundry (Python, Kafka, S3, Parquet)
+- **Production-grade ingestion pipeline** with schema enforcement + DLQs  
+- Sustains **140+ events/sec with sub-10ms latency and zero data loss**
+
+---
+
+### 🧠 Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+### 📫 Contact
+
+- Email: ym3470@nyu.edu  
+- LinkedIn: https://www.linkedin.com/in/yatharth-mogra/  
+
+---
+
+### ⚡ Small Truth
+
+I care about building systems that **don’t break under load**, not just ones that “work on my machine”.
