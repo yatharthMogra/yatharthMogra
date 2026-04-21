@@ -15,7 +15,7 @@ Building distributed systems, data platforms, and backend infrastructure.
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 - MS CS @ NYU  
 - Former Software Developer @ Walmart  
@@ -24,7 +24,7 @@ Building distributed systems, data platforms, and backend infrastructure.
 
 ---
 
-### 🛠 What I Work On
+###  What I Work On
 
 - Designing **event-driven systems** using Kafka and streaming pipelines  
 - Building **backend services in Go, Java, and Python**  
@@ -33,19 +33,19 @@ Building distributed systems, data platforms, and backend infrastructure.
 
 ---
 
-### 🔧 Featured Projects
+###  Featured Projects
 
-#### 🚗 Fleet OTA Orchestrator (Go, PostgreSQL, REST)
+####  Fleet OTA Orchestrator (Go, PostgreSQL, REST)
 - Backend system simulating **over-the-air updates for vehicle fleets**
 - Supports **staged rollouts, failure handling, and rollback strategies**
 
-#### ⚙️ DataFoundry (Python, Kafka, S3, Parquet)
+####  DataFoundry (Python, Kafka, S3, Parquet)
 - **Production-grade ingestion pipeline** with schema enforcement + DLQs  
 - Sustains **140+ events/sec with sub-10ms latency and zero data loss**
 
 ---
 
-### 🧠 Tech Stack
+###  Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -62,13 +62,13 @@ Building distributed systems, data platforms, and backend infrastructure.
 
 ---
 
-### 📫 Contact
+###  Contact
 
 - Email: ym3470@nyu.edu  
 - LinkedIn: https://www.linkedin.com/in/yatharth-mogra/  
 
 ---
 
-### ⚡ Small Truth
+###  Small Truth
 
 I care about building systems that **don’t break under load**, not just ones that “work on my machine”.
