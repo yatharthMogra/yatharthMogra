@@ -11,6 +11,9 @@ Building distributed systems, data platforms, and backend infrastructure.
 <a href="https://www.linkedin.com/in/yatharth-mogra/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="mailto:ym3470@nyu.edu">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
@@ -31,20 +34,6 @@ Building distributed systems, data platforms, and backend infrastructure.
 - Developing **fault-tolerant systems** with observability (metrics, logging, tracing)  
 - Working with **AWS, Docker, CI/CD, and scalable infra patterns**
 
----
-
-###  Featured Projects
-
-####  Fleet OTA Orchestrator (Go, PostgreSQL, REST)
-- Backend system simulating **over-the-air updates for vehicle fleets**
-- Supports **staged rollouts, failure handling, and rollback strategies**
-
-####  DataFoundry (Python, Kafka, S3, Parquet)
-- **Production-grade ingestion pipeline** with schema enforcement + DLQs  
-- Sustains **140+ events/sec with sub-10ms latency and zero data loss**
-
----
-
 ###  Tech Stack
 
 <p>
@@ -59,16 +48,3 @@ Building distributed systems, data platforms, and backend infrastructure.
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-
----
-
-###  Contact
-
-- Email: ym3470@nyu.edu  
-- LinkedIn: https://www.linkedin.com/in/yatharth-mogra/  
-
----
-
-###  Small Truth
-
-I care about building systems that **don’t break under load**, not just ones that “work on my machine”.
