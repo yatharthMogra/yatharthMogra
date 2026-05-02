@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yatharth</h1>
 
 <p align="center">
-Building distributed systems, data platforms, and backend infrastructure.
+Building distributed systems, data platforms, and LLM-powered applications.
 </p>
 
 <p align="center">
@@ -23,7 +23,8 @@ Building distributed systems, data platforms, and backend infrastructure.
 - MS CS @ NYU  
 - Former Software Developer @ Walmart  
 - Experience building **high-availability distributed systems**, **Kafka-based pipelines**, and **cloud-native infrastructure**  
-- Interested in **SRE, backend systems, and large-scale data platforms**
+- Interested in **SRE, backend systems, large-scale data platforms, and LLM-powered applications**  
+- Recently: built document-intelligence and RAG systems that placed at multiple AI hackathons
 
 ---
 
@@ -83,3 +84,11 @@ Building distributed systems, data platforms, and backend infrastructure.
 </tr>
 
 </table>
+
+---
+
+## Hackathon Wins
+
+- DocuFlow – Document intelligence and RAG system for financial workflows · 2nd Place, AWS Financial AI Hackathon · [GitHub](https://github.com/aws-financial-ai-hack-skywalkers77)  
+- Astro – LLM-powered research assistant for space science datasets · Best CloudFlare Implementation, NASA Space Apps NYC · [GitHub](https://github.com/SpecterRossAI/Astro)  
+- SpecterRoss AI – Real-time voice agent for legal simulations · Best Databricks Implementation, NYU Startup Week · [GitHub](https://github.com/SpecterRossAI)
