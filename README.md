@@ -33,7 +33,9 @@ Building distributed systems, data platforms, and LLM-powered applications.
 - Designing **event-driven systems** using Kafka and streaming pipelines  
 - Building **backend services in Go, Java, and Python**  
 - Developing **fault-tolerant systems** with observability (metrics, logging, tracing)  
-- Working with **AWS, Docker, CI/CD, and scalable infra patterns**
+- Working with **AWS, Docker, CI/CD, and scalable infra patterns**  
+- Building **LLM-powered applications** (RAG systems, agents, document intelligence) end-to-end  
+- Prototyping **data and labeling workflows** for AI systems and evaluation
 
 ##  Tech Stack
 
